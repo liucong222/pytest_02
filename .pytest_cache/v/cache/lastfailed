@@ -1,0 +1,8 @@
+{
+  "scripts/test_01.py::Test::()::test_03": true,
+  "scripts/test_display.py::TestDisplay::()::test_display1": true,
+  "scripts/test_display.py::TestDisplay::()::test_mobile_display_input": true,
+  "scripts/test_network.py::TestNetwork::()::test_mobile_network_2g": true,
+  "scripts/test_network.py::TestNetwork::()::test_mobile_network_3g": true,
+  "scripts/test_shiyan.py::Testshiyan::()::test_lala1": true
+}
